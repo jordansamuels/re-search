@@ -12,7 +12,7 @@ escape sequences used, and is only tested on GNU/Linux.
 * Copy the file `re_search.fish` to the directory `~/.config/fish/functions/`.
 * Add the binding to `~/.config/fish/functions/fish_user_key_bindings.fish`:
 ```
-bind \cr re_search
+bind \cr re-search
 ```
 
 #### Duplicate history entries
